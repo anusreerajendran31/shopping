@@ -14,16 +14,16 @@
         "Quantity" : "1",
         "Unit":"kg",
         "Department": "Grocery",
-        "Notes":"vargin-Coconut-Oil"
+        "Notes":"Sunflower-oil"
     },
 
     {
         "SerialNo":"3",
-        "Name": "Tea Leaves",
+        "Name": "Tea powder",
         "Quantity" : "1",
         "Unit":"kg",
         "Department": "Grocery",
-        "Notes":"Rose-Gold"
+        "Notes":"Kanan devan tea"
     },
 
     {
@@ -50,7 +50,7 @@
         "Quantity" : "1",
         "Unit":"Li",
         "Department": "Grocery",
-        "Notes":"Milma blue packet"
+        "Notes":"Milma"
     },
 
     {
@@ -59,7 +59,7 @@
         "Quantity" : "1",
         "Unit":"kg",
         "Department": "Food",
-        "Notes":"Catla/Crab"
+        "Notes":"Prawns"
     },
 
     {
@@ -68,7 +68,7 @@
         "Quantity" : "10",
         "Unit":"Numbers",
         "Department": "Eggs",
-        "Notes":"Chicken Eggs"
+        "Notes":"-"
     },
 
     {
@@ -77,7 +77,7 @@
         "Quantity" : "0.5",
         "Unit":"kg",
         "Department": "Vegetables",
-        "Notes":"Fresh, select any"
+        "Notes":"Fresh"
     },
 
     {
@@ -86,7 +86,7 @@
         "Quantity" : "5",
         "Unit":"Packets",
         "Department": "House-Hold",
-        "Notes":"Oil Absorbent"
+        "Notes":"Kitchen tissue"
     }
 
 ]
